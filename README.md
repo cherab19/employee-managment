@@ -1,5 +1,5 @@
 
-Welcome to this employee management website! This project showcases certain features necessary for the employee management system.
+Welcome to  employee management website! This project showcases certain features necessary for the employee management system.
 
 ## Features
 - Responsive design
