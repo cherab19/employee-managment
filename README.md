@@ -19,4 +19,5 @@ Welcome to  employee management website! This project showcases certain features
 ## How to Run Locally
 1. Clone the repository:
    git clone https://github.com/Cherab19/employee-managment.git
+
 Open index.html in your browser.
