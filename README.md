@@ -3,8 +3,9 @@ Welcome to  employee management website! This project showcases certain features
 
 ## Features
 - Responsive design
-- Hosted on GitHub Pages
+- core roles performed by the actors
 - attractive user interface
+- secured system by encryption mechanism
 
 ## Live Demo
 (https://Cherab19.github.io/employee-managment)
