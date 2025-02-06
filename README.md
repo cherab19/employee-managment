@@ -6,11 +6,7 @@ Welcome to  employee management website! This project showcases certain features
 - core roles performed by the actors
 - attractive user interface
 - secured system by encryption mechanism
-
-## Live Demo
-(https://Cherab19.github.io/employee-managment)
-
-## Technologies Used
+  ## Technologies Used
 - HTML
 - CSS
 - JavaScript
